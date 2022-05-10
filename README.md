@@ -4,7 +4,7 @@ Hi 👋 My name is Rodion Postanogov
 Backend developer
 -----------------
 
-I am a FullStack developer with experience in implementing Front-end and Backend parts. Also, I grow up my expertise up as a DevOps, gaining my experience there. In my free time, I expand my skills by studying new technologies. I develop projects with my own ideas for practice. Currently, I am getting a higher education in the specialization "Applied informatics in economics".
+I am a Backend developer with experience in implementing Front-end and Backend parts. Also, I grow up my expertise up as a DevOps, gaining my experience there. In my free time I expand my skills by studying new technologies. I develop projects with my own ideas for practice. Currently, I am getting a higher education in the specialization "Applied informatics in economics".
 
 * 🌍  I'm based in Sochi
 * ✉️  You can contact me at [postanogov.work@gmail.com](mailto:postanogov.work@gmail.com)
