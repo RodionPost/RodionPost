@@ -6,9 +6,8 @@ Python developer
 
 I am a Backend developer with experience in implementing Front-end and Backend parts. Also, I grow up my expertise up as a DevOps, gaining my experience there. In my free time I expand my skills by studying new technologies. I develop projects with my own ideas for practice. Currently, I am getting a higher education in the specialization "Applied informatics in economics".
 
-* 🌍  I'm based in Russia, Sochi
 * ✉️  You can contact me at [postanogov.work@gmail.com](mailto:postanogov.work@gmail.com)
-* 🚀  I'm currently working in [Urbamatica](https://urbamatica.com)
+* 🚀  I'm currently working in [Djangoheads](https://djangoheads.com/)
 * 🤝  I'm open to collaborating on interesting projects
 * 🧠  Organizer and creator in the GDG Sochi and [IT Sochi community](https://www.instagram.com/it_sochi_community/)
 
