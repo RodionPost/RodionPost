@@ -4,7 +4,7 @@ Hi 👋 My name is Rodion Postanogov
 Python developer
 -----------------
 
-I am a Backend developer with experience in implementing Front-end and Backend parts. Also, I grow up my expertise up as a DevOps, gaining my experience there. In my free time I expand my skills by studying new technologies. I develop projects with my own ideas for practice. Currently, I am getting a higher education in the specialization "Applied informatics in economics".
+Developer who likes not only to write code, but also to communicate with people, share experiences, find new acquaintances. I am one of the organizers of the IT Community in Sochi (in the past and Google Developer Group Sochi). I love learning new things for myself, as well as teaching people and passing on my experience to them.
 
 * ✉️  You can contact me at [postanogov.work@gmail.com](mailto:postanogov.work@gmail.com)
 * 🚀  I'm currently working in [Djangoheads](https://djangoheads.com/)
