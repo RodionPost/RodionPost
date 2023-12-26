@@ -7,7 +7,6 @@ Python developer
 Developer who likes not only to write code, but also to communicate with people, share experiences, find new acquaintances. I am one of the organizers of the IT Community in Sochi (in the past and Google Developer Group Sochi). I love learning new things for myself, as well as teaching people and passing on my experience to them.
 
 * ✉️  You can contact me at [postanogov.work@gmail.com](mailto:postanogov.work@gmail.com)
-* 🚀  I'm currently working in [Djangoheads](https://djangoheads.com/)
 * 🤝  I'm open to collaborating on interesting projects
 * 🧠  Organizer and creator in the GDG Sochi and [IT Sochi community](https://www.instagram.com/it_sochi_community/)
 
